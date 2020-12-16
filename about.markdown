@@ -16,4 +16,5 @@ Languages and frameworks I work with in this job include:
 * [Ruby on Rails](https://rubyonrails.org/) - various other parts of the 
   Berklee Online website run on Rails.
 
-This website is powered using [Jekyll](https://jekyllrb.com/).
+This website is powered using [Jekyll](https://jekyllrb.com/), and is currently hosted on [GitHub 
+Pages](https://pages.github.com/).
