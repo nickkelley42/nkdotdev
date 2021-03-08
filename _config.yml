@@ -21,8 +21,8 @@
 title: Nick Kelley
 email: nick@nickkelley.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  Fullstack web software developer, with particular
-  experience with Ember.js, Ruby on Rails, and Node.js.
+  Fullstack web software developer with 
+  experience with Ruby on Rails, Ember.js, and Node.js.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://nickkelley.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  nickkelley42
